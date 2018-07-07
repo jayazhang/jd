@@ -1,5 +1,5 @@
 // window.amb_jd_proxy_domain = "logs.newapi.com";
-window.amb_jd_proxy_domain = "172.24.135.68:7001";
+window.amb_jd_proxy_domain = "172.24.135.68:8899";
 window.amb_jd_cdn_domain = "cdn.newapi.com";
 window.amb_jd_proxy_f = "gw04";
 window.amb_jd_proxy_c = "2";

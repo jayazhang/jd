@@ -1,7 +1,6 @@
-// window.amb_jd_proxy_domain = "logs.newapi.com";
-window.amb_jd_proxy_domain = "aishouxiu.com";
+window.amb_jd_proxy_domain = "aixiuzb.com";
 window.amb_jd_cdn_domain = "cdn.newapi.com";
-window.amb_jd_proxy_f = "gw04";
+window.amb_jd_proxy_f = "";
 window.amb_jd_proxy_c = "2";
 (function (h) {
     var g = {

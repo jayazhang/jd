@@ -30,9 +30,9 @@ class HomeController extends Controller {
             return keys[l]
         }
         this.ctx.body = {
-            text: 'ce shi ',
+            text: base + random(),
             status: 'ok',
-            token: base + random(),
+            token: 7.9234234234,
             closeqq: 'no',
             iscn: 'yes'
         };
